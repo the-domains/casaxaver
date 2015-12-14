@@ -1,7 +1,7 @@
 name: CasaXaver
 favicon: null
-layout_spectrum: 0.3855749301146716
-typography_spectrum: 0.8533445154316723
+layout_spectrum: 0.5717
+typography_spectrum: 0.54141
 title: A Luxury Garden Escape in Mérida YUC Mexico
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.05263815191574395
-  lightness: 0.9013995053246617
-  saturation: 0.25492903823032975
-  rhythmicContrast: 0.5614438438788056
+    - '#e4d8c2'
+    - '#55b5d8'
+    - '#7d6b39'
+    - '#0071b7'
+    - '#141100'
+  brandStrength: 0.25
+  lightness: 0.9375
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
