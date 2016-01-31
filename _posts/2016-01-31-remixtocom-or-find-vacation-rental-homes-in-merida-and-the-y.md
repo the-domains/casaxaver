@@ -17,7 +17,7 @@ keywords:
   - top-notch
   - detail-oriented
 description: "We are excited to be working with Remixto, Mérida's premier home rental and concierge experience. Contact stay@remixto.com and mention Casa Xaver to make a reservation."
-datePublished: '2016-01-31T19:35:39.677Z'
+datePublished: '2016-01-31T19:35:39.737Z'
 dateModified: '2016-01-31T19:35:31.415Z'
 author: []
 related: []
