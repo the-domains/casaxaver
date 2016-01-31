@@ -16,9 +16,9 @@ keywords:
   - in-home
   - top-notch
   - detail-oriented
-description: 'Choose from over 50 one-of-a-kind vacation rental homes Merida and the Yucatan Gulf Coast. Each unique home offers world-class amenities and personalized travel services that allow you to escape, indulge and explore the rich culture and history of the Yucatan.'
-datePublished: '2016-01-31T18:56:50.807Z'
-dateModified: '2016-01-31T18:56:48.490Z'
+description: "We are excited to be working with Remixto, Mérida's premier home rental and concierge experience. Contact stay@remixto.com and mention Casa Xaver to make a reservation."
+datePublished: '2016-01-31T18:59:16.451Z'
+dateModified: '2016-01-31T18:59:13.966Z'
 author: []
 related: []
 app_links: []
