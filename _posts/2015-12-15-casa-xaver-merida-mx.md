@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Casa Xaver: A luxury vacation rental in the heart of the vibrant Yucatán capital'
-datePublished: '2016-01-31T18:34:05.910Z'
-dateModified: '2016-01-31T18:34:01.113Z'
+datePublished: '2016-01-31T19:33:17.654Z'
+dateModified: '2016-01-31T19:33:00.457Z'
 title: 'Casa Xaver, Mérida, MX'
 author: []
 sourcePath: _posts/2015-12-15-casa-xaver-merida-mx.md
