@@ -17,7 +17,7 @@ keywords:
   - top-notch
   - detail-oriented
 description: 'Choose from over 50 one-of-a-kind vacation rental homes Merida and the Yucatan Gulf Coast. Each unique home offers world-class amenities and personalized travel services that allow you to escape, indulge and explore the rich culture and history of the Yucatan.'
-datePublished: '2016-01-31T18:53:08.966Z'
+datePublished: '2016-01-31T18:53:08.985Z'
 dateModified: '2016-01-31T18:53:06.507Z'
 author: []
 related: []
