@@ -1,6 +1,6 @@
 name: CasaXaver
 favicon: null
-layout_spectrum: 0.21267
+layout_spectrum: 0.92877
 typography_spectrum: 0.54141
 title: 'A Luxury Garden Escape in Mérida, Yucatán, Mexico'
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.125
   lightness: 0.8125
   saturation: 0.125
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
