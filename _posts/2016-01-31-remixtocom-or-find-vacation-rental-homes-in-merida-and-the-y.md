@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://remixto.com/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - remixto
   - world-class
@@ -17,8 +17,8 @@ keywords:
   - top-notch
   - detail-oriented
 description: "We are excited to be working with Remixto, Mérida's premier home rental and concierge experience. Contact stay@remixto.com and mention Casa Xaver to make a reservation."
-datePublished: '2016-01-31T19:01:51.265Z'
-dateModified: '2016-01-31T19:01:48.267Z'
+datePublished: '2016-01-31T19:33:11.055Z'
+dateModified: '2016-01-31T19:32:55.390Z'
 author: []
 related: []
 app_links: []
