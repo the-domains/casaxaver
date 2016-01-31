@@ -17,20 +17,20 @@ keywords:
   - top-notch
   - detail-oriented
 description: 'Choose from over 50 one-of-a-kind vacation rental homes Merida and the Yucatan Gulf Coast. Each unique home offers world-class amenities and personalized travel services that allow you to escape, indulge and explore the rich culture and history of the Yucatan.'
-datePublished: '2016-01-31T14:01:21.753Z'
-dateModified: '2016-01-31T14:00:57.813Z'
+datePublished: '2016-01-31T14:03:12.690Z'
+dateModified: '2016-01-31T14:02:54.336Z'
 author: []
 related: []
 app_links: []
-title: 'remixto.com | Find vacation Rental Homes in Merida and the Yucatan Coast, México on Remixto'
+title: Resereve through remixto.com
+sourcePath: _posts/2016-01-31-remixtocom-or-find-vacation-rental-homes-in-merida-and-the-y.md
+published: true
 authors: []
 publisher:
   name: Remixto
   domain: remixto.com
   url: 'http://remixto.com'
   favicon: 'http://remixto-stage.reimaginedproper.netdna-cdn.com/sites/default/files/favicon.ico'
-sourcePath: _posts/2016-01-31-remixtocom-or-find-vacation-rental-homes-in-merida-and-the-y.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
