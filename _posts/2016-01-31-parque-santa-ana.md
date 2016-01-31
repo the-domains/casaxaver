@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Santa Ana is a neighborhood near the Paseo Montejo. You'll find great restaurants, art galleries, shops, and a traditional market here. It's a short walk to all of the best sites in Mérida."
-datePublished: '2016-01-31T13:32:01.266Z'
-dateModified: '2016-01-31T13:30:27.522Z'
+datePublished: '2016-01-31T13:36:01.929Z'
+dateModified: '2016-01-31T13:34:31.075Z'
 title: Parque Santa Ana
 author: []
+sourcePath: _posts/2016-01-31-parque-santa-ana.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-parque-santa-ana.md
-published: true
 url: parque-santa-ana/index.html
-_type: Article
+_type: WebPage
 
 ---
 Santa Ana is a neighborhood near the Paseo Montejo. You'll find great restaurants, art galleries, shops, weekly musical events, and a traditional market here. It's a short walk to all of the best sites in Mérida.
