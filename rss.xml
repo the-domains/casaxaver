@@ -4,8 +4,15 @@
         <description><![CDATA[A Luxury Garden Escape in Mérida, Yucatán, Mexico]]></description>
         <link>https://thegrid.ai/casaxaver/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 18:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 18:52:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/casaxaver/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reserve through remixto.com]]></title>
+            <description><![CDATA[<article><h1>Reserve through remixto.com</h1><p>Choose from over 50 one-of-a-kind vacation rental homes Merida and the Yucatan Gulf Coast. Each unique home offers world-class amenities and personalized travel services that allow you to escape, indulge and explore the rich culture and history of the Yucatan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4df0de90790afab18083d1caa515d129607e8f89.jpg"></article>]]></description>
+            <link>http://remixto.com/</link>
+            <guid isPermaLink="false">8692fcb2-9d55-4442-a564-e9722a3f5679</guid>
+            <pubDate>Sun, 31 Jan 2016 18:49:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The House]]></title>
             <description><![CDATA[<article><h1>The House</h1><p>A stylish updated home with preserved details and modern amenities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9efaf98d232191497524c08a0c292bbf465b66f7.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/casaxaver/parque-santa-ana/index.html</link>
             <guid isPermaLink="false">5c994b16-c959-4be9-86e3-c6c4db34062b</guid>
             <pubDate>Sun, 31 Jan 2016 18:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reserve through remixto.com]]></title>
-            <description><![CDATA[<article><h1>Reserve through remixto.com</h1><p>Choose from over 50 one-of-a-kind vacation rental homes Merida and the Yucatan Gulf Coast. Each unique home offers world-class amenities and personalized travel services that allow you to escape, indulge and explore the rich culture and history of the Yucatan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4df0de90790afab18083d1caa515d129607e8f89.jpg"></article>]]></description>
-            <link>http://remixto.com/</link>
-            <guid isPermaLink="false">8692fcb2-9d55-4442-a564-e9722a3f5679</guid>
-            <pubDate>Sun, 31 Jan 2016 18:41:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
