@@ -17,12 +17,12 @@ keywords:
   - top-notch
   - detail-oriented
 description: 'Choose from over 50 one-of-a-kind vacation rental homes Merida and the Yucatan Gulf Coast. Each unique home offers world-class amenities and personalized travel services that allow you to escape, indulge and explore the rich culture and history of the Yucatan.'
-datePublished: '2016-01-31T14:03:12.738Z'
-dateModified: '2016-01-31T14:02:54.336Z'
+datePublished: '2016-01-31T18:29:55.366Z'
+dateModified: '2016-01-31T18:29:50.986Z'
 author: []
 related: []
 app_links: []
-title: Resereve through remixto.com
+title: Reserve through remixto.com
 sourcePath: _posts/2016-01-31-remixtocom-or-find-vacation-rental-homes-in-merida-and-the-y.md
 published: true
 authors: []
@@ -35,9 +35,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-We are excited to be working with Remixto. Contact [stay@remixto.com][0] and mention Casa Xaver to make a reservation
+We are excited to be working with Remixto, Mérida's premier home rental and concierge experience. Contact [stay@remixto.com][0] and mention Casa Xaver to make a reservation.
 
-<article style=""><h1>remixto&amp;period;com &amp;vert; Find vacation Rental Homes in Merida and the Yucatan Coast&amp;comma; México on Remixto</h1><p>Choose from over 50 one-of-a-kind vacation rental homes Merida and the Yucatan Gulf Coast&amp;period; Each unique home offers world-class amenities and personalized travel services that allow you to escape&amp;comma; indulge and explore the rich culture and history of the Yucatan&amp;period;</p><img src="http://remixto-stage.reimaginedproper.netdna-cdn.com/sites/default/files/alejandrina%20banner_0.jpg" /></article>
+<article style=""><h1>Remixto</h1><p>Choose from over 50 one-of-a-kind vacation rental homes Merida and the Yucatan Gulf Coast. Each unique home offers world-class amenities and personalized travel services that allow you to escape, indulge and explore the rich culture and history of the Yucatan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d17cc3f4432d5db3c663b0420c5b2130626e5c98.jpg" /></article>
 
 
 
