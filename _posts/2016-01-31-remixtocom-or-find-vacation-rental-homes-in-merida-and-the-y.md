@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://remixto.com/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - remixto
   - world-class
@@ -17,8 +17,8 @@ keywords:
   - top-notch
   - detail-oriented
 description: 'Choose from over 50 one-of-a-kind vacation rental homes Merida and the Yucatan Gulf Coast. Each unique home offers world-class amenities and personalized travel services that allow you to escape, indulge and explore the rich culture and history of the Yucatan.'
-datePublished: '2016-01-31T18:41:09.007Z'
-dateModified: '2016-01-31T18:41:00.750Z'
+datePublished: '2016-01-31T18:49:07.303Z'
+dateModified: '2016-01-31T18:49:04.781Z'
 author: []
 related: []
 app_links: []
