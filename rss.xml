@@ -4,8 +4,15 @@
         <description><![CDATA[A Luxury Garden Escape in Mérida, Yucatán, Mexico]]></description>
         <link>https://thegrid.ai/casaxaver/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 18:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 18:44:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/casaxaver/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The House]]></title>
+            <description><![CDATA[<article><h1>The House</h1><p>A stylish updated home with preserved details and modern amenities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea40b92e4c00271933ecd1e7d518f80754e8b8f0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/casaxaver/the-house/index.html</link>
+            <guid isPermaLink="false">e5ef79c3-99c0-4e9d-9b57-4b2a0a95e5e5</guid>
+            <pubDate>Sun, 31 Jan 2016 18:43:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Casa Xaver, Mérida, MX]]></title>
             <description><![CDATA[<article><h1>Casa Xaver, Mérida, MX</h1><p>Available now for your next Yucatán adventure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3b08981fa15bbe313ffb32b14f2f6fc9890c8cc.png"></article>]]></description>
@@ -22,17 +29,10 @@
         </item>
         <item>
             <title><![CDATA[Reserve through remixto.com]]></title>
-            <description><![CDATA[<article><h1>Reserve through remixto.com</h1><p>Choose from over 50 one-of-a-kind vacation rental homes Merida and the Yucatan Gulf Coast. Each unique home offers world-class amenities and personalized travel services that allow you to escape, indulge and explore the rich culture and history of the Yucatan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cb00debf5460cd8c72cd9a5e7cacb1b131eea82.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Reserve through remixto.com</h1><p>Choose from over 50 one-of-a-kind vacation rental homes Merida and the Yucatan Gulf Coast. Each unique home offers world-class amenities and personalized travel services that allow you to escape, indulge and explore the rich culture and history of the Yucatan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4df0de90790afab18083d1caa515d129607e8f89.jpg"></article>]]></description>
             <link>http://remixto.com/</link>
             <guid isPermaLink="false">8692fcb2-9d55-4442-a564-e9722a3f5679</guid>
             <pubDate>Sun, 31 Jan 2016 18:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The House]]></title>
-            <description><![CDATA[<article><h1>The House</h1><p>A stylish updated home with preserved details and modern amenities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea40b92e4c00271933ecd1e7d518f80754e8b8f0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/casaxaver/the-house/index.html</link>
-            <guid isPermaLink="false">e5ef79c3-99c0-4e9d-9b57-4b2a0a95e5e5</guid>
-            <pubDate>Sun, 31 Jan 2016 18:32:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
