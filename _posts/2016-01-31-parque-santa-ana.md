@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Santa Ana is a neighborhood near the Paseo Montejo. You'll find great restaurants, art galleries, shops, and a traditional market here. It's a short walk to all of the best sites in Mérida."
-datePublished: '2016-01-31T14:13:33.387Z'
+datePublished: '2016-01-31T14:13:33.511Z'
 dateModified: '2016-01-31T14:13:30.688Z'
 title: 'The Neighboorhood: Santa Ana'
 author: []
