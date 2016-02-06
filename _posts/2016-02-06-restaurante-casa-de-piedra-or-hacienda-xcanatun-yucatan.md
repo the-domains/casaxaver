@@ -1,26 +1,26 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.xcanatun.com/restaurante.html'
 inLanguage: es
 starred: false
 keywords: []
 description: 'Hacienda Xcanatún, Hotel, Restaurante Casa de Piedra, spa, Mérida, Yucatán, México, Reserva Ahora'
-datePublished: '2016-02-06T17:48:26.464Z'
-dateModified: '2016-02-06T17:48:14.730Z'
+datePublished: '2016-02-06T19:20:25.836Z'
+dateModified: '2016-02-06T19:20:18.080Z'
 author: []
 related: []
 app_links: []
 title: 'Restaurante Casa de Piedra | Hacienda Xcanatún, Yucatán'
+sourcePath: _posts/2016-02-06-restaurante-casa-de-piedra-or-hacienda-xcanatun-yucatan.md
+published: true
 authors: []
 publisher:
   name: Xcanatun
   domain: www.xcanatun.com
   url: 'http://www.xcanatun.com'
   favicon: 'http://www.xcanatun.com/images/favicon.png'
-sourcePath: _posts/2016-02-06-restaurante-casa-de-piedra-or-hacienda-xcanatun-yucatan.md
-published: true
+url: restaurante-casa-de-piedra-or-hacienda-xcanatun-yucatan/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
